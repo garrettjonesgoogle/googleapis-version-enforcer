@@ -1,0 +1,19 @@
+# Build results
+bin
+build
+.gradle
+tmp_gh-pages
+tmp_docs
+target
+
+# Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+
+# IntelliJ
+.idea
+*.iml
+out
